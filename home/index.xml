@@ -1,22 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mia San Hollywood</title>
-    <link>https://miasanhollywood.github.io/</link>
-    <description>Recent content on Mia San Hollywood</description>
+    <title>Homes on Mia San Hollywood</title>
+    <link>https://miasanhollywood.github.io/home/</link>
+    <description>Recent content in Homes on Mia San Hollywood</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://miasanhollywood.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contact Us</title>
-      <link>https://miasanhollywood.github.io/contact/</link>
-      <pubDate>Tue, 28 Dec 2021 14:17:28 -0800</pubDate>
-      
-      <guid>https://miasanhollywood.github.io/contact/</guid>
-      <description>Interested in membership? Contact us by emailing admin@miasanhollywood.com for more information!
-You can also show up at the Wirsthaus during an event! We meet at Wirtshaus German Restaurant &amp;amp; Beer Garden located at:
-345 N La Brea Ave Los Angeles, CA 90036</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://miasanhollywood.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://miasanhollywood.github.io/home/subheader/</link>
