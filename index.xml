@@ -7,17 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://miasanhollywood.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contact Us</title>
-      <link>https://miasanhollywood.github.io/contact/</link>
-      <pubDate>Tue, 28 Dec 2021 14:17:28 -0800</pubDate>
-      
-      <guid>https://miasanhollywood.github.io/contact/</guid>
-      <description>Interested in membership? Contact us by emailing admin@miasanhollywood.com for more information!
-You can also show up at the Wirsthaus during an event! We meet at Wirtshaus German Restaurant &amp;amp; Beer Garden located at:
-345 N La Brea Ave Los Angeles, CA 90036</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://miasanhollywood.github.io/home/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -26,6 +15,27 @@ You can also show up at the Wirsthaus during an event! We meet at Wirtshaus Germ
       <description>Join us at @wirtshaus for FC Bayern München and Germany Games!
 HOLLYWOOD SUPPORTERS SUPPORTING FC BAYERN
 We are an FC Bayern Munich supporter’s group based in Los Angeles, California USA. We get together for Bundesliga games, DFB Pokal games, Champions League games, and German National Team games! We also hold special events like Stammtisch, holiday parties, and organize trips to Munich to see FC Bayern Munich play at the Allianz Arena in Germany.</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>https://miasanhollywood.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://miasanhollywood.github.io/about/</guid>
+      <description>WE ARE FC BAYERN MUNICH SUPPORTERS FROM HOLLYWOOD, CA
+We are an FC Bayern Munich supporter’s group based in Los Angeles, California USA. We get together to support FC Bayern and the German National Teams at the Wirsthaus in Los Angeles. During game days, you can expect a time filled with drinks, food, laughter, and of course FC Bayern Munich on the TV! We also do raffles from time to time, so come join us for a chance to win some sweet Bayern swag!</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>https://miasanhollywood.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://miasanhollywood.github.io/contact/</guid>
+      <description>Interested in membership? Contact us by emailing admin@miasanhollywood.com for more information!
+You can also show up at the Wirsthaus during an event! We meet at Wirtshaus German Restaurant &amp;amp; Beer Garden located at:
+345 N La Brea Ave Los Angeles, CA 90036</description>
     </item>
     
   </channel>
