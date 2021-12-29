@@ -38,5 +38,14 @@ You can also show up at the Wirsthaus during an event! We meet at Wirtshaus Germ
 345 N La Brea Ave Los Angeles, CA 90036</description>
     </item>
     
+    <item>
+      <title>Upcoming Events</title>
+      <link>https://miasanhollywood.github.io/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://miasanhollywood.github.io/events/</guid>
+      <description>Here you&amp;rsquo;ll find information about our events! Click here to subscribe.</description>
+    </item>
+    
   </channel>
 </rss>
